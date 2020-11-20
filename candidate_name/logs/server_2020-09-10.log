@@ -1,0 +1,16 @@
+2020-09-10 18:06:01,920 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/app.py[line:1349] - INFO: Goin' Fast @ http://0.0.0.0:8080
+2020-09-10 18:06:01,922 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/server.py[line:769] - INFO: Starting worker [40838]
+2020-09-10 18:09:54,017 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/app.py[line:1349] - INFO: Goin' Fast @ http://0.0.0.0:8080
+2020-09-10 18:09:54,018 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/server.py[line:769] - INFO: Starting worker [44294]
+2020-09-10 18:13:25,164 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/handlers.py[line:176] - ERROR: Exception occurred while handling uri: unknown
+Traceback (most recent call last):
+  File "/root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/server.py", line 267, in data_received
+    self.parser.feed_data(data)
+  File "httptools/parser/parser.pyx", line 193, in httptools.parser.parser.HttpParser.feed_data
+httptools.parser.errors.HttpParserInvalidMethodError: invalid HTTP method
+2020-09-10 18:17:10,663 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/app.py[line:1349] - INFO: Goin' Fast @ http://0.0.0.0:8080
+2020-09-10 18:17:10,664 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/server.py[line:769] - INFO: Starting worker [51173]
+2020-09-10 18:18:04,973 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/app.py[line:1349] - INFO: Goin' Fast @ http://0.0.0.0:8080
+2020-09-10 18:18:04,975 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/server.py[line:769] - INFO: Starting worker [52066]
+2020-09-10 18:18:43,003 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/app.py[line:1349] - INFO: Goin' Fast @ http://0.0.0.0:8080
+2020-09-10 18:18:43,005 - /root/anaconda3/envs/rasa_robot/lib/python3.7/site-packages/sanic/server.py[line:769] - INFO: Starting worker [52695]

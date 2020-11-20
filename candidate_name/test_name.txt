@@ -1,0 +1,192 @@
+[
+{
+ 'title':'百度',
+first:[
+    {
+      "num": "19",
+      "name": "\u975e\u91d1\u5c5e\u7684\u5efa\u7b51\u6750\u6599\uff1b\u5efa\u7b51\u7528\u975e\u91d1\u5c5e\u786c\u7ba1\uff1b\u67cf\u6cb9\uff0c\u6ca5\u9752\uff1b\u53ef\u79fb\u52a8\u975e\u91d1\u5c5e\u5efa\u7b51\u7269\uff1b\u975e\u91d1\u5c5e\u7eaa\u5ff5\u7891\u3002 ",
+      "sec": [
+        {
+          "num": "1910",
+          "name": "\u975e\u91d1\u5c5e\u5efa\u7b51\u7269 ",
+          "sscore": 4,
+          "third": [
+            {
+              "id": "62839",
+              "name": "\u4e0d\u53d1\u5149\u3001\u975e\u673a\u68b0\u7684\u975e\u91d1\u5c5e\u8def\u724c",
+              "num": "190164"
+            },
+            {
+              "id": "65508",
+              "name": "\u4e0d\u53d1\u5149\u3001\u975e\u673a\u68b0\u7684\u975e\u91d1\u5c5e\u4fe1\u53f7\u677f",
+              "num": "190137"
+            },
+            {
+              "id": "65511",
+              "name": "\u4e0d\u53d1\u5149\u3001\u975e\u673a\u68b0\u7684\u975e\u91d1\u5c5e\u6807\u5fd7",
+              "num": "190165"
+            }
+          ]
+        },
+ {
+          "num": "906",
+          "name": " \u4fe1\u53f7\u5668\u5177 ",
+          "sscore": 4,
+          "third": [
+            {
+              "id": "53668",
+              "name": "\u673a\u68b0\u8def\u724c",
+              "num": ""
+            },
+            {
+              "id": "62304",
+              "name": "\u53d1\u5149\u6216\u673a\u68b0\u4fe1\u53f7\u677f",
+              "num": "090380"
+            },
+            {
+              "id": "62305",
+              "name": "\u591c\u660e\u6216\u673a\u68b0\u4fe1\u53f7\u6807\u5fd7",
+              "num": "090434"
+            },
+            {
+              "id": "64412",
+              "name": "\u53d1\u5149\u6216\u673a\u68b0\u8def\u724c",
+              "num": "090516"
+            }
+          ]
+        },
+      ]
+    },
+   
+    {
+      "num": "9",
+      "name": "\u79d1\u5b66\u3001\u7814\u7a76\u3001\u5bfc\u822a\u3001\u6d4b\u91cf\u3001\u6444\u5f71\u3001\u7535\u5f71\u3001\u89c6\u542c\u3001\u5149\u5b66\u3001\u8861\u5177\u3001\u91cf\u5177\u3001\u4fe1\u53f7\u3001\u4fa6\u6d4b\u3001\u6d4b\u8bd5\u3001\u68c0\u9a8c\u3001\u6551\u751f\u548c\u6559\u5b66\u7528\u88c5\u7f6e\u53ca\u4eea\u5668\uff1b\u5904\u7406\u3001\u5f00\u5173\u3001\u8f6c\u6362\u3001\u79ef\u7d2f\u3001\u8c03\u8282\u6216\u63a7\u5236\u7535\u7684\u914d\u9001\u6216\u4f7f\u7528\u7684\u88c5\u7f6e\u548c\u4eea\u5668\uff1b\u5f55\u5236\u3001\u4f20\u9001\u3001\u91cd\u653e\u6216\u5904\u7406\u58f0\u97f3\u3001\u5f71\u50cf\u6216\u6570\u636e\u7684\u88c5\u7f6e\u548c\u4eea\u5668\uff1b\u5df2\u5f55\u5236\u548c\u53ef\u4e0b\u8f7d\u7684\u5a92\u4f53\uff0c\u8ba1\u7b97\u673a\u8f6f\u4ef6\uff0c\u5f55\u5236\u548c\u5b58\u50a8\u7528\u7a7a\u767d\u7684\u6570\u5b57\u6216\u6a21\u62df\u4ecb\u8d28\uff1b\u6295\u5e01\u542f\u52a8\u8bbe\u5907\u7528\u673a\u68b0\u88c5\u7f6e\uff1b\u6536\u94f6\u673a\uff0c\u8ba1\u7b97\u8bbe\u5907\uff1b\u8ba1\u7b97\u673a\u548c\u8ba1\u7b97\u673a\u5916\u56f4\u8bbe\u5907\uff1b\u6f5c\u6c34\u670d\uff0c\u6f5c\u6c34\u9762\u7f69\uff0c\u6f5c\u6c34\u7528\u8033\u585e\uff0c\u6f5c\u6c34\u548c\u6e38\u6cf3\u7528\u9f3b\u5939\uff0c\u6f5c\u6c34\u5458\u624b\u5957\uff0c\u6f5c\u6c34\u547c\u5438\u5668\uff1b\u706d\u706b\u8bbe\u5907\u3002 ",
+      "sec": [
+        {
+          "num": "906",
+          "name": " \u4fe1\u53f7\u5668\u5177 ",
+          "sscore": 4,
+          "third": [
+            {
+              "id": "53668",
+              "name": "\u673a\u68b0\u8def\u724c",
+              "num": ""
+            },
+            {
+              "id": "62304",
+              "name": "\u53d1\u5149\u6216\u673a\u68b0\u4fe1\u53f7\u677f",
+              "num": "090380"
+            },
+            {
+              "id": "62305",
+              "name": "\u591c\u660e\u6216\u673a\u68b0\u4fe1\u53f7\u6807\u5fd7",
+              "num": "090434"
+            },
+            {
+              "id": "64412",
+              "name": "\u53d1\u5149\u6216\u673a\u68b0\u8def\u724c",
+              "num": "090516"
+            }
+          ]
+        },
+ {
+          "num": "906",
+          "name": " \u4fe1\u53f7\u5668\u5177 ",
+          "sscore": 4,
+          "third": [
+            {
+              "id": "53668",
+              "name": "\u673a\u68b0\u8def\u724c",
+              "num": ""
+            },
+            {
+              "id": "62304",
+              "name": "\u53d1\u5149\u6216\u673a\u68b0\u4fe1\u53f7\u677f",
+              "num": "090380"
+            },
+            {
+              "id": "62305",
+              "name": "\u591c\u660e\u6216\u673a\u68b0\u4fe1\u53f7\u6807\u5fd7",
+              "num": "090434"
+            },
+            {
+              "id": "64412",
+              "name": "\u53d1\u5149\u6216\u673a\u68b0\u8def\u724c",
+              "num": "090516"
+            }
+          ]
+        }
+
+      ]
+    }
+  ]
+},
+{
+ 'title':'腾讯',
+first:[
+    {
+      "num": "19",
+      "name": "\u975e\u91d1\u5c5e\u7684\u5efa\u7b51\u6750\u6599\uff1b\u5efa\u7b51\u7528\u975e\u91d1\u5c5e\u786c\u7ba1\uff1b\u67cf\u6cb9\uff0c\u6ca5\u9752\uff1b\u53ef\u79fb\u52a8\u975e\u91d1\u5c5e\u5efa\u7b51\u7269\uff1b\u975e\u91d1\u5c5e\u7eaa\u5ff5\u7891\u3002 ",
+      "sec": [
+        {
+          "num": "1910",
+          "name": "\u975e\u91d1\u5c5e\u5efa\u7b51\u7269 ",
+          "sscore": 4,
+          "third": [
+            {
+              "id": "62839",
+              "name": "\u4e0d\u53d1\u5149\u3001\u975e\u673a\u68b0\u7684\u975e\u91d1\u5c5e\u8def\u724c",
+              "num": "190164"
+            },
+            {
+              "id": "65508",
+              "name": "\u4e0d\u53d1\u5149\u3001\u975e\u673a\u68b0\u7684\u975e\u91d1\u5c5e\u4fe1\u53f7\u677f",
+              "num": "190137"
+            },
+            {
+              "id": "65511",
+              "name": "\u4e0d\u53d1\u5149\u3001\u975e\u673a\u68b0\u7684\u975e\u91d1\u5c5e\u6807\u5fd7",
+              "num": "190165"
+            }
+          ]
+        }
+      ]
+    },
+   
+    {
+      "num": "9",
+      "name": "\u79d1\u5b66\u3001\u7814\u7a76\u3001\u5bfc\u822a\u3001\u6d4b\u91cf\u3001\u6444\u5f71\u3001\u7535\u5f71\u3001\u89c6\u542c\u3001\u5149\u5b66\u3001\u8861\u5177\u3001\u91cf\u5177\u3001\u4fe1\u53f7\u3001\u4fa6\u6d4b\u3001\u6d4b\u8bd5\u3001\u68c0\u9a8c\u3001\u6551\u751f\u548c\u6559\u5b66\u7528\u88c5\u7f6e\u53ca\u4eea\u5668\uff1b\u5904\u7406\u3001\u5f00\u5173\u3001\u8f6c\u6362\u3001\u79ef\u7d2f\u3001\u8c03\u8282\u6216\u63a7\u5236\u7535\u7684\u914d\u9001\u6216\u4f7f\u7528\u7684\u88c5\u7f6e\u548c\u4eea\u5668\uff1b\u5f55\u5236\u3001\u4f20\u9001\u3001\u91cd\u653e\u6216\u5904\u7406\u58f0\u97f3\u3001\u5f71\u50cf\u6216\u6570\u636e\u7684\u88c5\u7f6e\u548c\u4eea\u5668\uff1b\u5df2\u5f55\u5236\u548c\u53ef\u4e0b\u8f7d\u7684\u5a92\u4f53\uff0c\u8ba1\u7b97\u673a\u8f6f\u4ef6\uff0c\u5f55\u5236\u548c\u5b58\u50a8\u7528\u7a7a\u767d\u7684\u6570\u5b57\u6216\u6a21\u62df\u4ecb\u8d28\uff1b\u6295\u5e01\u542f\u52a8\u8bbe\u5907\u7528\u673a\u68b0\u88c5\u7f6e\uff1b\u6536\u94f6\u673a\uff0c\u8ba1\u7b97\u8bbe\u5907\uff1b\u8ba1\u7b97\u673a\u548c\u8ba1\u7b97\u673a\u5916\u56f4\u8bbe\u5907\uff1b\u6f5c\u6c34\u670d\uff0c\u6f5c\u6c34\u9762\u7f69\uff0c\u6f5c\u6c34\u7528\u8033\u585e\uff0c\u6f5c\u6c34\u548c\u6e38\u6cf3\u7528\u9f3b\u5939\uff0c\u6f5c\u6c34\u5458\u624b\u5957\uff0c\u6f5c\u6c34\u547c\u5438\u5668\uff1b\u706d\u706b\u8bbe\u5907\u3002 ",
+      "sec": [
+        {
+          "num": "906",
+          "name": " \u4fe1\u53f7\u5668\u5177 ",
+          "sscore": 4,
+          "third": [
+            {
+              "id": "53668",
+              "name": "\u673a\u68b0\u8def\u724c",
+              "num": ""
+            },
+            {
+              "id": "62304",
+              "name": "\u53d1\u5149\u6216\u673a\u68b0\u4fe1\u53f7\u677f",
+              "num": "090380"
+            },
+            {
+              "id": "62305",
+              "name": "\u591c\u660e\u6216\u673a\u68b0\u4fe1\u53f7\u6807\u5fd7",
+              "num": "090434"
+            },
+            {
+              "id": "64412",
+              "name": "\u53d1\u5149\u6216\u673a\u68b0\u8def\u724c",
+              "num": "090516"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+]
